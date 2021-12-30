@@ -24,7 +24,6 @@ Here are some of the projects that I am working on currently. Lets be honest her
 - An instagram bot that allows you to execute commands inside your dm. So for example, you can send a message of the new program your making to all your followers by just typing out a quick command and then let the bot to the rest in the backgroud. The entire project will be OPEN SOURCE :) .
 
 
-### Want to talk with me?
+### Contact Me?
+![Twitter Follow](https://img.shields.io/twitter/follow/GSensam?style=social)
 
-![https://twitter.com/gsensam](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fgsensam)
-!["https://www.instagram.com/guhan_sensam/"](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
