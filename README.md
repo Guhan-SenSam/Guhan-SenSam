@@ -2,6 +2,10 @@
 
 
 <!--START_SECTION:waka-->
+```text
+Python   9 hrs 54 mins   ███████████████████████▓░   94.37 % 
+Text     35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+```
 <!--END_SECTION:waka-->
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id={Guhan-SenSam}.{443015215})
