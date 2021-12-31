@@ -1,3 +1,8 @@
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guhan-SenSam&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id={Guhan-SenSam}.{443015215})
+
 ### Hi there 👋 I see you found my GitHub Profile
 
 I am a self taught developer that primarily focuses on python based applications. I have created numerous apps in python using the Kivy framework and its various derivatives. Here you can find some libraries and applications that I have made over the years. Check em out!!
