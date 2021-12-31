@@ -1,6 +1,9 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guhan-SenSam&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id={Guhan-SenSam}.{443015215})
 
 ### Hi there 👋 I see you found my GitHub Profile
