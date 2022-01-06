@@ -10,7 +10,7 @@ I am a self taught developer that primarily focuses on python based applications
 The time I spent this week coding
 <!--START_SECTION:waka-->
 ```text
-Python   5 hrs 7 mins    █████████████████████████   100.00 % 
+Python   2 hrs 46 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
