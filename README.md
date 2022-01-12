@@ -10,10 +10,10 @@ I am a self taught developer that primarily focuses on python based applications
 The time I spent this week coding
 <!--START_SECTION:waka-->
 ```text
-Python       4 hrs 36 mins   ████████████████████████░   96.63 % 
-Properties   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-XML          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
-Java         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Python       5 hrs 1 min     ████████████████████████▒   96.90 % 
+Properties   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+XML          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Java         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 ```
 <!--END_SECTION:waka-->
 
