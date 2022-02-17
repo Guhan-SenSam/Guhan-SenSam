@@ -43,4 +43,5 @@ Here are some of the projects that I am working on currently. Lets be honest her
 
 ### Contact Me?
 ![Twitter Follow](https://img.shields.io/twitter/follow/GSensam?style=social)
+[Discord Server](https://discord.gg/whgEw6BG)
 
