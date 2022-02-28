@@ -9,10 +9,14 @@ I am a self taught developer that primarily focuses on python based applications
 
 The time I spent this week coding
 <!--START_SECTION:waka-->
+
 ```text
-C        2 hrs 16 mins   █████████████▓░░░░░░░░░░░   55.15 % 
-C++      1 hr 50 mins    ███████████░░░░░░░░░░░░░░   44.42 % 
+Python   3 hrs 32 mins   █████████████░░░░░░░░░░░░   52.16 %
+C        2 hrs 16 mins   ████████▒░░░░░░░░░░░░░░░░   33.67 %
+C++      57 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.17 %
+Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
+
 <!--END_SECTION:waka-->
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id={Guhan-SenSam}.{443015215})
