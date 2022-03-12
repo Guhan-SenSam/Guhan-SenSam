@@ -22,10 +22,19 @@ Other    25 mins         ██░░░░░░░░░░░░░░░░�
 
 
 ### My Skills:
-- Python advanced level
-- Java intermediate level
-- Integarting Java into python code using Pyjnius
-- Releasing Apps on the Playstore and using numerous Google developer tools such as Analytics, Firebase, Admob and integrating these platforms into a python application
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### Platforms I Target:
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### What I am Working on Learning:
 - Making andorid apps the traditional way through java and android studio
@@ -43,6 +52,7 @@ Here are some of the projects that I am working on currently. Lets be honest her
 - An instagram bot that allows you to execute commands inside your dm. So for example, you can send a message of the new program your making to all your followers by just typing out a quick command and then let the bot to the rest in the backgroud. The entire project will be OPEN SOURCE :) .
 
 ### Contact Me?
+![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
 ![Twitter Follow](https://img.shields.io/twitter/follow/GSensam?style=social)
 
 
