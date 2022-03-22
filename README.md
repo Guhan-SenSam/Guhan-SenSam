@@ -11,9 +11,10 @@ The time I spent this week coding
 <!--START_SECTION:waka-->
 
 ```text
-Python   2 hrs           █████████████░░░░░░░░░░░░   52.46 %
-C        1 hr 33 mins    ██████████▒░░░░░░░░░░░░░░   40.70 %
-Other    12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
+C        1 hr 33 mins    █████████████████▒░░░░░░░   68.79 %
+Python   37 mins         ███████░░░░░░░░░░░░░░░░░░   27.66 %
+JSON     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+Other    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 ```
 
 <!--END_SECTION:waka-->
