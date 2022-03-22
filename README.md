@@ -20,6 +20,7 @@ Other    1 min           ▒░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id={Guhan-SenSam}.{443015215})
+[![wakatime](https://wakatime.com/badge/user/47552522-5c3d-4509-a300-fbac59edf0f4.svg)](https://wakatime.com/@47552522-5c3d-4509-a300-fbac59edf0f4)
 
 
 ### My Skills:
