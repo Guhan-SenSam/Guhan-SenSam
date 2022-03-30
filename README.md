@@ -11,9 +11,8 @@ The time I spent this week coding
 <!--START_SECTION:waka-->
 
 ```text
-C        38 mins         ███████████████▓░░░░░░░░░   62.80 %
-Kotlin   15 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.72 %
-XML      7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.48 %
+Kotlin   15 mins         █████████████████▒░░░░░░░   69.14 %
+XML      7 mins          ███████▓░░░░░░░░░░░░░░░░░   30.86 %
 ```
 
 <!--END_SECTION:waka-->
