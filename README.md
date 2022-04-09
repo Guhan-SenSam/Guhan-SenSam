@@ -12,6 +12,7 @@ The time I spent this week coding
 
 ```text
 C++   0 secs          █████████████████████████   100.00 %
+C     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
