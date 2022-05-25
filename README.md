@@ -52,8 +52,8 @@ GitIgnore file   0 secs          ░░░░░░░░░░░░░░░�
 ### Projects In the Making
 
 Here are some of the projects that I am working on currently. Lets be honest here, I am probably never going to complete some of them, but hey that's what programming is about, you complete some stuff and some you dont.
-- A cross device capable reminder app with android,watchos,ios,linux,windows,macos and web clients(I know thats a lot for just one guy)
-- An instagram bot that allows you to execute commands inside your dm. So for example, you can send a message of the new program your making to all your followers by just typing out a quick command and then let the bot to the rest in the backgroud. The entire project will be OPEN SOURCE :) .
+- A fast 2d physics engine made entirely in C++. If possible I want it to be able to also run water simulations.
+- An android application for tracking a person's instagram account's followers and unfollowers.
 
 ### Contact Me?
 ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
