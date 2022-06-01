@@ -11,8 +11,8 @@ The time I spent this week coding
 <!--START_SECTION:waka-->
 
 ```text
-C++   1 hr 50 mins    ████████████████▓░░░░░░░░   67.20 %
-C     53 mins         ████████▒░░░░░░░░░░░░░░░░   32.80 %
+C++   2 hrs 9 mins    █████████████████▓░░░░░░░   70.68 %
+C     53 mins         ███████▒░░░░░░░░░░░░░░░░░   29.32 %
 ```
 
 <!--END_SECTION:waka-->
