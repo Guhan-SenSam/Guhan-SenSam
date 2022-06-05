@@ -11,9 +11,9 @@ The time I spent this week coding
 <!--START_SECTION:waka-->
 
 ```text
-C++      1 hr 42 mins    ███████████████▒░░░░░░░░░   61.01 %
-Python   36 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.91 %
-GLSL     28 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.08 %
+C++      52 mins         ███████████░░░░░░░░░░░░░░   44.40 %
+Python   36 mins         ███████▓░░░░░░░░░░░░░░░░░   31.25 %
+GLSL     28 mins         ██████░░░░░░░░░░░░░░░░░░░   24.36 %
 ```
 
 <!--END_SECTION:waka-->
