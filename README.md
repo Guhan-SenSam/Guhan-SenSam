@@ -11,8 +11,9 @@ The time I spent this week coding
 <!--START_SECTION:waka-->
 
 ```text
-Kotlin           41 mins         █████████████░░░░░░░░░░░░   51.58 %
-Other            25 mins         ███████▓░░░░░░░░░░░░░░░░░   31.14 %
+Python           2 hrs 31 mins   ███████████████████▒░░░░░   76.98 %
+Kotlin           30 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.43 %
+Other            8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
 ```
 
 <!--END_SECTION:waka-->
