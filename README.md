@@ -11,11 +11,10 @@ The time I spent this week coding
 <!--START_SECTION:waka-->
 
 ```text
-Kotlin       9 hrs 55 mins   ███████████████▓░░░░░░░░░   63.16 %
-XML          5 hrs 43 mins   █████████░░░░░░░░░░░░░░░░   36.40 %
-Properties   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-Java         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-Groovy       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Kotlin       7 hrs 52 mins   ██████████████░░░░░░░░░░░   55.95 %
+XML          5 hrs 14 mins   █████████▒░░░░░░░░░░░░░░░   37.25 %
+C++          26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+Other        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
 ```
 
 <!--END_SECTION:waka-->
