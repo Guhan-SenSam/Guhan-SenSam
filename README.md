@@ -11,10 +11,10 @@ The time I spent this week coding
 <!--START_SECTION:waka-->
 
 ```text
-C++        11 mins         ███████████░░░░░░░░░░░░░░   43.99 %
-JSON       7 mins          ███████░░░░░░░░░░░░░░░░░░   28.16 %
-Markdown   5 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.13 %
-CMake      1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
+Python     34 mins         ███████████████▒░░░░░░░░░   61.39 %
+Markdown   15 mins         ███████░░░░░░░░░░░░░░░░░░   28.14 %
+Text       4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
+Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 ```
 
 <!--END_SECTION:waka-->
