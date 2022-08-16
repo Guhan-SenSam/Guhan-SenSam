@@ -11,11 +11,11 @@ The time I spent this week coding
 <!--START_SECTION:waka-->
 
 ```text
-C          3 hrs 59 mins   ███████████████████░░░░░░   76.60 %
-Markdown   41 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 %
-Makefile   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
-Python     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
-Other      5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+C          2 hrs 56 mins   █████████████████▓░░░░░░░   70.77 %
+Markdown   41 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.65 %
+Makefile   12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
+Python     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Other      5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
 ```
 
 <!--END_SECTION:waka-->
