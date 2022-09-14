@@ -11,8 +11,7 @@ The time I spent this week coding
 <!--START_SECTION:waka-->
 
 ```text
-C       1 hr 22 mins    ████████████████████████▓   98.03 %
-Other   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
