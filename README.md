@@ -11,7 +11,8 @@ The time I spent this week coding
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+HTML   34 mins         █████████████████████████   99.87 %
+CSS    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
