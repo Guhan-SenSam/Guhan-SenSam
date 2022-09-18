@@ -11,8 +11,11 @@ The time I spent this week coding
 <!--START_SECTION:waka-->
 
 ```text
-HTML   34 mins         █████████████████████████   99.87 %
-CSS    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Java     35 mins         ███████████▓░░░░░░░░░░░░░   46.96 %
+HTML     34 mins         ███████████▒░░░░░░░░░░░░░   45.43 %
+Kotlin   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+Groovy   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+CSS      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
