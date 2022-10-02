@@ -11,12 +11,11 @@ The time I spent this week coding
 <!--START_SECTION:waka-->
 
 ```text
-Java         5 hrs 51 mins   █████████████████▒░░░░░░░   69.21 %
-Python       1 hr 35 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.71 %
-HTML         42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
-JavaScript   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
-Markdown     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
-Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Python       12 hrs 32 mins  ████████████████▒░░░░░░░░   64.87 %
+Java         5 hrs 28 mins   ███████░░░░░░░░░░░░░░░░░░   28.36 %
+HTML         55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+JavaScript   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Other        6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
