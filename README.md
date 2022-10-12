@@ -11,9 +11,9 @@ The time I spent this week coding
 <!--START_SECTION:waka-->
 
 ```text
-Java       17 mins         ██████████████████▒░░░░░░   73.87 %
-Python     6 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.69 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Python     6 mins          ████████████████████████░   95.92 %
+Java       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
 ```
 
 <!--END_SECTION:waka-->
