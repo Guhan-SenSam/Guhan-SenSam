@@ -11,7 +11,8 @@ The time I spent this week coding
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Java     1 min           ████████████████████████▒   97.96 %
+Python   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
 ```
 
 <!--END_SECTION:waka-->
