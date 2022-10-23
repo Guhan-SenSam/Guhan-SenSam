@@ -11,8 +11,10 @@ The time I spent this week coding
 <!--START_SECTION:waka-->
 
 ```text
-Java     4 hrs 35 mins   █████████████████████████   99.97 %
-Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Java         11 hrs 52 mins  ████████████████████████░   96.49 %
+Groovy       19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+Properties   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
