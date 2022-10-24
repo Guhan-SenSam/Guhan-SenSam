@@ -11,10 +11,12 @@ The time I spent this week coding
 <!--START_SECTION:waka-->
 
 ```text
-Java         11 hrs 52 mins  ████████████████████████░   96.49 %
-Groovy       19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
-Properties   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Java         20 hrs 28 mins  ████████████████▒░░░░░░░░   65.71 %
+Kotlin       5 hrs 31 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.73 %
+JavaScript   2 hrs 58 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 %
+Python       44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+Groovy       41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+Gradle       20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
 ```
 
 <!--END_SECTION:waka-->
