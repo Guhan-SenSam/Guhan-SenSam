@@ -11,12 +11,9 @@ The time I spent this week coding
 <!--START_SECTION:waka-->
 
 ```text
-Kotlin       4 hrs 23 mins   ████████████████████████▒   97.37 %
-JavaScript   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
-Gradle       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-Java         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Groovy       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Kotlin   1 hr 1 min      ████████████████████████▓   98.48 %
+Python   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+Java     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
