@@ -11,8 +11,8 @@ The time I spent this week coding
 <!--START_SECTION:waka-->
 
 ```text
-Kotlin   7 hrs 48 mins   ████████████▓░░░░░░░░░░░░   50.19 %
-Other    7 hrs 31 mins   ████████████░░░░░░░░░░░░░   48.43 %
+Kotlin   11 hrs 52 mins  █████████████████░░░░░░░░   68.36 %
+Other    5 hrs 6 mins    ███████▒░░░░░░░░░░░░░░░░░   29.43 %
 ```
 
 <!--END_SECTION:waka-->
