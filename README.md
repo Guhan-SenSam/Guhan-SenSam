@@ -37,8 +37,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Kotlin                 13 hrs 29 mins  ████████████████▒░░░░░░░░   64.82 %
-Other                  4 hrs 27 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.43 %
+Kotlin                 17 hrs 58 mins  ███████████████████░░░░░░   76.56 %
+Other                  2 hrs 34 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 %
 ```
 
 <!--END_SECTION:waka-->
