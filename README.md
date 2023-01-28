@@ -37,7 +37,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Text     9 mins          ████████████████▒░░░░░░░░   65.80 %
+Kotlin   4 mins          ████████▓░░░░░░░░░░░░░░░░   34.20 %
 ```
 
 <!--END_SECTION:waka-->
