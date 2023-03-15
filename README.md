@@ -37,12 +37,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Kotlin           36 mins         ████████████████████▓░░░░   82.31 %
-Gradle           3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
-Groovy           2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
-GitIgnore file   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
-Properties       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
