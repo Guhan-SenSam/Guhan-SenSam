@@ -37,7 +37,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+XML          1 hr            █████████████████▓░░░░░░░   71.24 %
+Kotlin       21 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.71 %
+Gradle       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+Groovy       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
