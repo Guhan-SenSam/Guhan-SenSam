@@ -49,9 +49,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Prolog   18 mins         █████████████▒░░░░░░░░░░░   52.72 %
-C#       9 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.17 %
-XAML     7 mins          █████░░░░░░░░░░░░░░░░░░░░   20.11 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
