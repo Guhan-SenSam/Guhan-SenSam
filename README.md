@@ -49,7 +49,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java              16 mins         ████████████████████████░   95.91 %
+Protocol Buffer   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
 ```
 
 <!--END_SECTION:waka-->
