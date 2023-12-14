@@ -49,8 +49,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java              16 mins         ████████████████████████░   95.91 %
-Protocol Buffer   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
+Java              16 mins         ███████████████▓░░░░░░░░░   63.25 %
+Kotlin            8 mins          ████████▓░░░░░░░░░░░░░░░░   34.05 %
+Protocol Buffer   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
 ```
 
 <!--END_SECTION:waka-->
