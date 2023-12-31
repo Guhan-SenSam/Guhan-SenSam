@@ -49,11 +49,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python             3 hrs 21 mins   █████████▒░░░░░░░░░░░░░░░   36.81 %
-reStructuredText   2 hrs 16 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.89 %
-Markdown           1 hr 9 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.76 %
-RPMSpec            56 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 %
-YAML               51 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
+Python             5 hrs 30 mins   ████████████░░░░░░░░░░░░░   47.80 %
+reStructuredText   2 hrs 16 mins   █████░░░░░░░░░░░░░░░░░░░░   19.70 %
+RPMSpec            1 hr 48 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.69 %
+YAML               48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
+Markdown           30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
 ```
 
 <!--END_SECTION:waka-->
