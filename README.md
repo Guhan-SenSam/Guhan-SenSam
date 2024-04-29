@@ -59,7 +59,7 @@ Other        10 mins         ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 #### How Much I have Coded Since I started
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Guhan_SenSam/4b04fa1d-952f-45ab-9d07-ce16bc410915.png" /></a>
+<a href="https://wakatime.com/@Guhan_SenSam"><img src="https://wakatime.com/share/@Guhan_SenSam/f3e0c430-dbb9-4dc8-bc36-6ea56217d153.png" /></a>
 
 ### Contact
 
