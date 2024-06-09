@@ -6,8 +6,9 @@
     <span style="font-size: 18px;"><b>Co-Founder of Oxlac Tech LLP</b></span>
   </p>
 </a>
+
 # About Me
-Hello 👋, I am Guhan a self taught developer that specializes in Mobile Development. I have been developing mobile apps for the past 4 years in various frameworks and languages. I am also experienced in DevOps and Full Stack Web Development. 
+Hello 👋, I am Guhan, a self taught developer that specializes in Mobile Development. I have been developing mobile apps for the past 4 years in various frameworks and languages. I am also experienced in DevOps and Full Stack Web Development. 
 
 ```python
 class AboutMe:
