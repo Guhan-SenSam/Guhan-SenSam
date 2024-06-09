@@ -1,70 +1,80 @@
 ![Header](images/header.png)
 
-[![wakatime](https://wakatime.com/badge/user/47552522-5c3d-4509-a300-fbac59edf0f4.svg)](https://wakatime.com/@47552522-5c3d-4509-a300-fbac59edf0f4)
+<a href="oxlac.com">
+  <p style="display: flex; align-items: center; margin-right: 20px;">
+    <img src="https://oxlac.com/favicon.png" alt="drawing" width="50" style="vertical-align: middle; margin-right: 10px;"/>
+    <span style="font-size: 18px;"><b>Co-Founder of Oxlac Tech LLP</b></span>
+  </p>
+</a>
+</br>
+</br>
 
-### About Me
+# About Me
+Hello 👋, I am Guhan a self taught developer that specializes in Mobile Development. I have been developing mobile apps for the past 4 years in various frameworks and languages. I am also experienced in DevOps and Full Stack Web Development. 
 
-* 🖥️ I am a self-taught developer who loves working on applications and digging around in backend code!
-* 📕 Currently pursuing a Bachelor of Computer Science in Computer Science Engineering in Vellore Institute of Technology, Chennai, Tamil Nadu, India.
-* 🧑🏽‍💻 My technical interest are application development, backend programming and Data Structures and Algorithms.
-* 📸 My hobbies include photography, video editing and 3D Visual Effects
+```python
+class AboutMe:
+    def __init__(self):
+        self.name = "Guhan Sambandam"
+        self.pronouns = "He/Him"
+        self.university = "Vellore Institute of Technology"
+        self.roles = "Co-Founder of Oxlac Tech LLP"
+        self.technologies = [
+            "Native Mobile App Development",
+            "Cross Platform Mobile App Development",
+            "Desktop Applications",
+            "Server Development",
+            "WebApp Development",
+            "CI/CD",
+            "Cloud Infrastructure as Code",
+            "UI/UX Designer"
+        ]
+        self.hobbies = [
+            "Videography",
+            "Video Editing",
+            "Photography",
+            "3D VFX, Blender"
+        ]
+        self.email = "contact@guhansensam.com"
+```
+# My Tech Stack:
 
-### My Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)
-![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+### Mobile App Development Frameworks
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,flutter,react,dotnet,swift&theme=dark)](https://skillicons.dev)
+
+### Langauges
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,rust,python,kotlin,java,dart,javascript,typescript,swift,html,css,&theme=dark)](https://skillicons.dev)
+
+### Desktop Application Development
+[![My Skills](https://skillicons.dev/icons?i=dotnet,python,qt,tauri&theme=dark)](https://skillicons.dev)
+
+### Backend Development
+[![My Skills](https://skillicons.dev/icons?i=django,dotnet,mysql,mongo,postgres,flask&theme=dark)](https://skillicons.dev)
+
+### Web Frontend Developement
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,wordpress&theme=dark)](https://skillicons.dev)
+
+### Devops
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,cloudflare,heroku,git,github,githubactions,gitlab,jenkins,docker,kubernetes,firebase,nginx,sentr,terraform&theme=dark)](https://skillicons.dev)
+
+### Development Setup
+[![My Skills](https://skillicons.dev/icons?i=arch,windows,androidstudio,vscode,visualstudio&theme=dark)](https://skillicons.dev)
+
+### Hobby Softwares
+[![My Skills](https://skillicons.dev/icons?i=blender,ae,pr&theme=dark)](https://skillicons.dev)
 
 
-
-### Platforms I Target:
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-
-### My Stats
+# My Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Guhan-SenSam&theme=vue-dark&mode=weekly)](https://git.io/streak-stats)
 
-#### The time I spent this week coding
-<!--START_SECTION:waka-->
+## How Much I have Coded Since I started
 
-```txt
-TypeScript   29 hrs 1 min    ████████████████████████▒   96.81 %
-JSON         35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
-Groovy       18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-```
+[![wakatime](https://wakatime.com/badge/user/47552522-5c3d-4509-a300-fbac59edf0f4.svg)](https://wakatime.com/@47552522-5c3d-4509-a300-fbac59edf0f4)
 
-<!--END_SECTION:waka-->
-
-#### How Much I have Coded Since I started
 <a href="https://wakatime.com/@Guhan_SenSam"><img src="https://wakatime.com/share/@Guhan_SenSam/f3e0c430-dbb9-4dc8-bc36-6ea56217d153.png" /></a>
 
-### Contact
-
-<a href="https://www.linkedin.com/in/guhan-sambandam"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="[https://mobile.twitter.com/gsensam"><img title="Follow on Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-<a href="https://www.instagram.com/guhan_sensam/"><img title="Follow on Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+# Contact Me
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:contact@guhansensam.com)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://in.linkedin.com/in/guhan-sambandam)
 
 
