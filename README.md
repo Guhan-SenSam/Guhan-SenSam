@@ -72,7 +72,6 @@ class AboutMe:
 <a href="https://wakatime.com/@Guhan_SenSam"><img src="https://wakatime.com/share/@Guhan_SenSam/f3e0c430-dbb9-4dc8-bc36-6ea56217d153.png" /></a>
 
 # Contact Me
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:contact@guhansensam.com)
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://in.linkedin.com/in/guhan-sambandam)
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:me@guhansensam.com)
 
 
