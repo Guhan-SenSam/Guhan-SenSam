@@ -63,6 +63,10 @@ class AboutMe:
 
 
 # My Stats
+
+![GitHub Stats](https://api.githubtrends.io/user/svg/Guhan-SenSam/langs?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=dark)
+
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Guhan-SenSam&theme=vue-dark&mode=weekly)](https://git.io/streak-stats)
 
 ## How Much I have Coded Since I started
